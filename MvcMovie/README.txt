@@ -122,5 +122,10 @@ Recovered from GitHub
 2024-06-06
 1430 UDT
 
-Today I had make changes in seed data file 
-I had make changes of movie name
+Today, I had linked Github and my project.
+Then uploaded on Github. So, that me as well as everyone can look my project.
+
+Today, I had make changes in seed data file 
+I had make changes of movie name also I had added rating and price of movie.
+then run on web to see output.
+https://localhost:7021/Movies
